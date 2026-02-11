@@ -61,6 +61,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavan-56-kalyan/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/pavan-56-kalyan/APS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/pavan-56-kalyan/APS/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/pavan-56-kalyan/APS/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/pavan-56-kalyan/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pavan-56-kalyan/APS/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/pavan-56-kalyan/APS/tree/master/0946-validate-stack-sequences) |
@@ -119,4 +120,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pavan-56-kalyan/APS/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/pavan-56-kalyan/APS/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
