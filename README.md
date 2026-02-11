@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/pavan-56-kalyan/APS/tree/master/0232-implement-queue-using-stacks) |
+| [0946-validate-stack-sequences](https://github.com/pavan-56-kalyan/APS/tree/master/0946-validate-stack-sequences) |
 ## Design
 |  |
 | ------- |
@@ -28,4 +29,12 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/pavan-56-kalyan/APS/tree/master/0876-middle-of-the-linked-list) |
+## Array
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/pavan-56-kalyan/APS/tree/master/0946-validate-stack-sequences) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/pavan-56-kalyan/APS/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
