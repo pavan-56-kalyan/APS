@@ -49,11 +49,13 @@
 | [0142-linked-list-cycle-ii](https://github.com/pavan-56-kalyan/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pavan-56-kalyan/APS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/pavan-56-kalyan/APS/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/pavan-56-kalyan/APS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pavan-56-kalyan/APS/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/pavan-56-kalyan/APS/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/pavan-56-kalyan/APS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/pavan-56-kalyan/APS/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/pavan-56-kalyan/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pavan-56-kalyan/APS/tree/master/0739-daily-temperatures) |
