@@ -23,6 +23,7 @@
 | [0622-design-circular-queue](https://github.com/pavan-56-kalyan/APS/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/pavan-56-kalyan/APS/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/pavan-56-kalyan/APS/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/pavan-56-kalyan/APS/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/pavan-56-kalyan/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/pavan-56-kalyan/APS/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/pavan-56-kalyan/APS/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/pavan-56-kalyan/APS/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/pavan-56-kalyan/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Linked List
 |  |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/pavan-56-kalyan/APS/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/pavan-56-kalyan/APS/tree/master/0933-number-of-recent-calls) |
 ## Hash Table
 |  |
 | ------- |
