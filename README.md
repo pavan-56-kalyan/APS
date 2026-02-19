@@ -165,12 +165,19 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pavan-56-kalyan/APS/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/pavan-56-kalyan/APS/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pavan-56-kalyan/APS/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/pavan-56-kalyan/APS/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pavan-56-kalyan/APS/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/pavan-56-kalyan/APS/tree/master/0199-binary-tree-right-side-view) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/pavan-56-kalyan/APS/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
