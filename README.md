@@ -63,6 +63,7 @@
 | [0075-sort-colors](https://github.com/pavan-56-kalyan/APS/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/pavan-56-kalyan/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pavan-56-kalyan/APS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/pavan-56-kalyan/APS/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/pavan-56-kalyan/APS/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/pavan-56-kalyan/APS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pavan-56-kalyan/APS/tree/master/0344-reverse-string) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/pavan-56-kalyan/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pavan-56-kalyan/APS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/pavan-56-kalyan/APS/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/pavan-56-kalyan/APS/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavan-56-kalyan/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/pavan-56-kalyan/APS/tree/master/0496-next-greater-element-i) |
@@ -174,6 +176,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/pavan-56-kalyan/APS/tree/master/0202-happy-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/pavan-56-kalyan/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Prefix Sum
 |  |
