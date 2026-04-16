@@ -82,6 +82,7 @@
 | [0239-sliding-window-maximum](https://github.com/pavan-56-kalyan/APS/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/pavan-56-kalyan/APS/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/pavan-56-kalyan/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0474-ones-and-zeroes](https://github.com/pavan-56-kalyan/APS/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/pavan-56-kalyan/APS/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/pavan-56-kalyan/APS/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/pavan-56-kalyan/APS/tree/master/0621-task-scheduler) |
@@ -117,6 +118,7 @@
 | [0257-binary-tree-paths](https://github.com/pavan-56-kalyan/APS/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/pavan-56-kalyan/APS/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavan-56-kalyan/APS/tree/master/0387-first-unique-character-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/pavan-56-kalyan/APS/tree/master/0474-ones-and-zeroes) |
 | [0721-accounts-merge](https://github.com/pavan-56-kalyan/APS/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/pavan-56-kalyan/APS/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/pavan-56-kalyan/APS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -185,6 +187,7 @@
 | [0070-climbing-stairs](https://github.com/pavan-56-kalyan/APS/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavan-56-kalyan/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/pavan-56-kalyan/APS/tree/master/0198-house-robber) |
+| [0474-ones-and-zeroes](https://github.com/pavan-56-kalyan/APS/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/pavan-56-kalyan/APS/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/pavan-56-kalyan/APS/tree/master/0746-min-cost-climbing-stairs) |
 ## Sorting
