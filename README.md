@@ -181,6 +181,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/pavan-56-kalyan/APS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pavan-56-kalyan/APS/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavan-56-kalyan/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/pavan-56-kalyan/APS/tree/master/0198-house-robber) |
@@ -205,6 +206,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/pavan-56-kalyan/APS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pavan-56-kalyan/APS/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/pavan-56-kalyan/APS/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/pavan-56-kalyan/APS/tree/master/0973-k-closest-points-to-origin) |
@@ -381,4 +383,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pavan-56-kalyan/APS/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/pavan-56-kalyan/APS/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
