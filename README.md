@@ -72,6 +72,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/pavan-56-kalyan/APS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/pavan-56-kalyan/APS/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavan-56-kalyan/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/pavan-56-kalyan/APS/tree/master/0200-number-of-islands) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pavan-56-kalyan/APS/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/pavan-56-kalyan/APS/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/pavan-56-kalyan/APS/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/pavan-56-kalyan/APS/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavan-56-kalyan/APS/tree/master/0387-first-unique-character-in-a-string) |
@@ -128,6 +130,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/pavan-56-kalyan/APS/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/pavan-56-kalyan/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pavan-56-kalyan/APS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/pavan-56-kalyan/APS/tree/master/0202-happy-number) |
@@ -167,6 +170,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/pavan-56-kalyan/APS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/pavan-56-kalyan/APS/tree/master/0075-sort-colors) |
 | [0621-task-scheduler](https://github.com/pavan-56-kalyan/APS/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/pavan-56-kalyan/APS/tree/master/0721-accounts-merge) |
