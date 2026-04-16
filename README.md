@@ -83,6 +83,7 @@
 | [0283-move-zeroes](https://github.com/pavan-56-kalyan/APS/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/pavan-56-kalyan/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/pavan-56-kalyan/APS/tree/master/0322-coin-change) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pavan-56-kalyan/APS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/pavan-56-kalyan/APS/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/pavan-56-kalyan/APS/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/pavan-56-kalyan/APS/tree/master/0542-01-matrix) |
@@ -198,6 +199,7 @@
 | [0049-group-anagrams](https://github.com/pavan-56-kalyan/APS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/pavan-56-kalyan/APS/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/pavan-56-kalyan/APS/tree/master/0169-majority-element) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pavan-56-kalyan/APS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/pavan-56-kalyan/APS/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/pavan-56-kalyan/APS/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/pavan-56-kalyan/APS/tree/master/0973-k-closest-points-to-origin) |
@@ -321,6 +323,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pavan-56-kalyan/APS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/pavan-56-kalyan/APS/tree/master/0621-task-scheduler) |
 ## Backtracking
 |  |
